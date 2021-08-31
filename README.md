@@ -1,2 +1,6 @@
-# meet-frontend
-The frontend
+# Meet frontend
+
+## Usage
+```npm install````
+
+```npm start```
