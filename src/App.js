@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom'
-import Meet from './components/meet'
+import MeetComponent from './components/meet-component'
 
 
 
@@ -8,10 +8,10 @@ function App() {
   return (
 <BrowserRouter>
 <div>
-  <Meet></Meet>
+  <MeetComponent></MeetComponent>
 </div>
 </BrowserRouter>
   );
-}
+};
 
 export default App;
